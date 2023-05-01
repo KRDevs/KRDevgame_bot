@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.20",
+    "unit": "^1.4.3-0"
+  },
+  "name": "darslik_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev":"nodemon index.js"
+  },
+  "keywords": [],
+  "author": "K_R_Dev",
+  "license": "ISC",
+  "description": ""
+}
